@@ -23,5 +23,5 @@ I am ✨**Mansi Soni**✨ , Recent graduate with an academic score of 8.5+ GPA i
 
 ## 📫 How to Reach Me
 
-<!--[![Email](https://img.shields.io/badge/Email-mohanty.amlan1400@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mansi622003@gmail.com) -->
+[![Email](https://img.shields.io/badge/Email-mansi622003@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mansi622003@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MansiSoni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-soni-78940b209/)
